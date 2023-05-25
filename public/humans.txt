@@ -1,0 +1,22 @@
+/* TEAM */
+Your title: Joshua Dean
+
+Site: rmjoshua@byui.edu
+
+LinkedIn: https://www.linkedin.com/in/joshua-dean-a10143206/
+
+Location: City, Country.
+
+/* THANKS */
+Special thanks to all of the creators who have such amazing talent and designs. I am grateful for the content you put out there
+for us to use. This website wouldn't be possible without the following creators:
+Name: MacroGrapix5
+URL: cool icons PNG Designed By MacroGrapix5 from https://pngtree.com/freepng/headphones-icon-in-cool-style-with-reactor-free-vector-and-png_6057302.html?sol=downref&id=bef
+
+/* SITE */
+
+Last update: 2023/05/22
+
+Standards: HTML5, CSS3, JS..
+
+Components: React, Express, MongoDb.

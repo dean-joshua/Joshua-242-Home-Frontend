@@ -1,0 +1,9 @@
+.footer-icon {
+  color: white;
+}
+
+@media (max-width: 575px) {
+  .footer-icon {
+    margin-right: 0.5rem;
+  }
+}
